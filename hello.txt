@@ -1,0 +1,3957 @@
+{
+ "alternate_names": [
+  "Makbule Hande \u00d6zyener"
+ ],
+ "api_path": "/artists/356460",
+ "description": {
+  "plain": "Hande Yener (born 12 January 1973) is a Turkish pop singer and actress. She is one of the most famous singers in Turkey. Over the past decade, she has introduced different styles to the ever-expanding Turkish pop music scene. Each one of her albums has generated a lot of interest as well as anticipation due to the different styles, genres and rhythms that she incorporates into her music"
+ },
+ "facebook_name": null,
+ "followers_count": 5,
+ "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+ "id": 356460,
+ "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Hande Yener",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Hande-yener",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream",
+   "view_discography"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1779599,
+  "annotator_login": "XeyalAzerbeyli",
+  "api_path": "/referents/7074421",
+  "classification": "unreviewed",
+  "fragment": "Hande Yener",
+  "id": 7074421,
+  "is_description": true,
+  "path": "/7074421/Hande-yener/Hande-yener",
+  "range": {
+   "content": "Hande Yener"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7074421/Hande-yener/Hande-yener",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/356460",
+   "context": null,
+   "id": 356460,
+   "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+   "link_title": "Hande Yener",
+   "title": "Hande Yener",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Hande-yener"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7074421",
+    "body": {
+     "plain": "Hande Yener (born 12 January 1973) is a Turkish pop singer and actress. She is one of the most famous singers in Turkey. Over the past decade, she has introduced different styles to the ever-expanding Turkish pop music scene. Each one of her albums has generated a lot of interest as well as anticipation due to the different styles, genres and rhythms that she incorporates into her music"
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7074421,
+    "pinned": false,
+    "share_url": "https://genius.com/7074421",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/7074421/Hande-yener/Hande-yener",
+    "verified": false,
+    "votes_total": 3,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1779599",
+       "avatar": {
+        "tiny": {
+         "url": "https://www.filepicker.io/api/file/JZgwHwzoRpeuCqEPNyjd?policy=eyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19&signature=68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://www.filepicker.io/api/file/JZgwHwzoRpeuCqEPNyjd?policy=eyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19&signature=68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://www.filepicker.io/api/file/JZgwHwzoRpeuCqEPNyjd?policy=eyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19&signature=68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://www.filepicker.io/api/file/JZgwHwzoRpeuCqEPNyjd?policy=eyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19&signature=68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://filepicker-images.genius.com/9vkg35g716s",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1779599,
+       "iq": 17958,
+       "login": "XeyalAzerbeyli",
+       "name": "XeyalAzerbeyli",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/XeyalAzerbeyli",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1675687",
+   "artist_names": "Hande Yener",
+   "full_title": "24 Saat by\u00a0Hande\u00a0Yener",
+   "header_image_thumbnail_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.400x400x1.jpg",
+   "id": 1675687,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Hande-yener-24-saat-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Hande-yener-24-saat-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.400x400x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "24 Saat",
+   "title_with_featured": "24 Saat",
+   "url": "https://genius.com/Hande-yener-24-saat-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356460",
+    "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+    "id": 356460,
+    "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Hande Yener",
+    "url": "https://genius.com/artists/Hande-yener"
+   },
+   "apple_music_id": "885887856",
+   "apple_music_player_url": "https://genius.com/songs/1675687/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1675687' class='rg_embed_link' data-song-id='1675687'>Read <a href='https://genius.com/Hande-yener-24-saat-lyrics'>\u201c24 Saat\u201d by Hande\u00a0Yener</a> on Genius</div> <script crossorigin src='//genius.com/songs/1675687/embed.js'></script>",
+   "featured_video": false,
+   "language": "tr",
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "use_mark_complete_button",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question",
+     "answer_question_with_source",
+     "moderate_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/180483",
+    "cover_art_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.400x400x1.jpg",
+    "full_title": "A\u015fk Kad\u0131n Ruhundan Anlam\u0131yor by Hande Yener",
+    "id": 180483,
+    "name": "A\u015fk Kad\u0131n Ruhundan Anlam\u0131yor",
+    "release_date_for_display": "January 1, 2004",
+    "url": "https://genius.com/albums/Hande-yener/Ask-kadn-ruhundan-anlamyor",
+    "artist": {
+     "api_path": "/artists/356460",
+     "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+     "id": 356460,
+     "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hande Yener",
+     "url": "https://genius.com/artists/Hande-yener"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6190709",
+    "classification": "needs_exegesis",
+    "fragment": "24 Saat",
+    "id": 6190709,
+    "is_description": true,
+    "path": "/6190709/Hande-yener-24-saat/24-saat",
+    "range": {
+     "content": "24 Saat"
+    },
+    "song_id": 1675687,
+    "url": "https://genius.com/6190709/Hande-yener-24-saat/24-saat",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1675687",
+     "client_timestamps": {
+      "updated_by_human_at": 1473312254,
+      "lyrics_updated_at": 1429903307
+     },
+     "context": "Hande Yener",
+     "id": 1675687,
+     "image_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.400x400x1.jpg",
+     "link_title": "24 Saat by\u00a0Hande\u00a0Yener",
+     "title": "24 Saat",
+     "type": "Song",
+     "url": "https://genius.com/Hande-yener-24-saat-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6190709",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6190709,
+      "pinned": false,
+      "share_url": "https://genius.com/6190709",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6190709/Hande-yener-24-saat/24-saat",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Hande Yener",
+   "lyrics": "2 Contributors24 Saat LyricsSenden a\u015fka bir k\u00f6pr\u00fcm vard\u0131\n\u00d6mr\u00fcn k\u00f6p\u00fck k\u00f6p\u00fck suyundan\n\u0130\u00e7meyi bilen bir yudum ald\u0131\n\nA\u015fktan ge\u00e7tim ayr\u0131l\u0131k kald\u0131\nBu yanan ac\u0131 t\u00fct\u00fcnden\n\u00c7ileyi seven bir nefes ald\u0131\n\nYan\u0131yorum uzan\u0131p yan\u0131ma ate\u015fi besle\nBu y\u00fcre\u011fin durumu b\u00f6yle ba\u011flanamaz birine\n\nYirmid\u00f6rt saat \u00f6nce\nHer\u015fey bitti yani d\u00fcn\nSevgilim sen \u00fcz\u00fclme\nG\u00f6n\u00fcl dola\u015f\u0131r d\u00f6ner bir g\u00fcnYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1486523",
+   "artist_names": "Hande Yener",
+   "full_title": "32 K\u0131s\u0131m by\u00a0Hande\u00a0Yener",
+   "header_image_thumbnail_url": "https://images.genius.com/0f57b22ebded94ae88ec5874562424ec.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0f57b22ebded94ae88ec5874562424ec.500x500x1.jpg",
+   "id": 1486523,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Hande-yener-32-ksm-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Hande-yener-32-ksm-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 8,
+    "day": 22
+   },
+   "release_date_for_display": "August 22, 2017",
+   "release_date_with_abbreviated_month_for_display": "Aug. 22, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/0f57b22ebded94ae88ec5874562424ec.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0f57b22ebded94ae88ec5874562424ec.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "32 K\u0131s\u0131m",
+   "title_with_featured": "32 K\u0131s\u0131m",
+   "url": "https://genius.com/Hande-yener-32-ksm-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356460",
+    "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+    "id": 356460,
+    "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Hande Yener",
+    "url": "https://genius.com/artists/Hande-yener"
+   },
+   "apple_music_id": "658850109",
+   "apple_music_player_url": "https://genius.com/songs/1486523/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1486523' class='rg_embed_link' data-song-id='1486523'>Read <a href='https://genius.com/Hande-yener-32-ksm-lyrics'>\u201c32 K\u0131s\u0131m\u201d by Hande\u00a0Yener</a> on Genius</div> <script crossorigin src='//genius.com/songs/1486523/embed.js'></script>",
+   "featured_video": false,
+   "language": "tr",
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-08-22",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "use_mark_complete_button",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question",
+     "answer_question_with_source",
+     "moderate_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/260415",
+    "cover_art_url": "https://images.genius.com/0f57b22ebded94ae88ec5874562424ec.500x500x1.jpg",
+    "full_title": "Sen Yoluna... Ben Yoluma... by Hande Yener",
+    "id": 260415,
+    "name": "Sen Yoluna... Ben Yoluma...",
+    "release_date_for_display": "August 22, 2002",
+    "url": "https://genius.com/albums/Hande-yener/Sen-yoluna-ben-yoluma",
+    "artist": {
+     "api_path": "/artists/356460",
+     "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+     "id": 356460,
+     "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hande Yener",
+     "url": "https://genius.com/artists/Hande-yener"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Arranged By",
+     "artists": [
+      {
+       "api_path": "/artists/529572",
+       "header_image_url": "https://images.genius.com/e87e642b1f01d95b7af4f795a72d864b.400x400x1.jpg",
+       "id": 529572,
+       "image_url": "https://images.genius.com/e87e642b1f01d95b7af4f795a72d864b.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Murat Yeter",
+       "url": "https://genius.com/artists/Murat-yeter"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6000536",
+    "classification": "needs_exegesis",
+    "fragment": "32 K\u0131s\u0131m",
+    "id": 6000536,
+    "is_description": true,
+    "path": "/6000536/Hande-yener-32-ksm/32-ksm",
+    "range": {
+     "content": "32 K\u0131s\u0131m"
+    },
+    "song_id": 1486523,
+    "url": "https://genius.com/6000536/Hande-yener-32-ksm/32-ksm",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1486523",
+     "client_timestamps": {
+      "updated_by_human_at": 1555082405,
+      "lyrics_updated_at": 1429890277
+     },
+     "context": "Hande Yener",
+     "id": 1486523,
+     "image_url": "https://images.genius.com/0f57b22ebded94ae88ec5874562424ec.500x500x1.jpg",
+     "link_title": "32 K\u0131s\u0131m by\u00a0Hande\u00a0Yener",
+     "title": "32 K\u0131s\u0131m",
+     "type": "Song",
+     "url": "https://genius.com/Hande-yener-32-ksm-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6000536",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6000536,
+      "pinned": false,
+      "share_url": "https://genius.com/6000536",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6000536/Hande-yener-32-ksm/32-ksm",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=cvRokUfamNo"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1160957",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1707426152",
+     "id": 1160957,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1707426152",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alper Narman",
+     "url": "https://genius.com/artists/Alper-narman"
+    },
+    {
+     "api_path": "/artists/348273",
+     "header_image_url": "https://images.genius.com/2f318c9e5a75623751e5d34aa412a5a6.863x863x1.jpg",
+     "id": 348273,
+     "image_url": "https://images.genius.com/2f318c9e5a75623751e5d34aa412a5a6.863x863x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fettah Can",
+     "url": "https://genius.com/artists/Fettah-can"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1160957",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1707426152",
+     "id": 1160957,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1707426152",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alper Narman",
+     "url": "https://genius.com/artists/Alper-narman"
+    },
+    {
+     "api_path": "/artists/348273",
+     "header_image_url": "https://images.genius.com/2f318c9e5a75623751e5d34aa412a5a6.863x863x1.jpg",
+     "id": 348273,
+     "image_url": "https://images.genius.com/2f318c9e5a75623751e5d34aa412a5a6.863x863x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fettah Can",
+     "url": "https://genius.com/artists/Fettah-can"
+    }
+   ],
+   "artist": "Hande Yener",
+   "lyrics": "3 Contributors32 K\u0131s\u0131m LyricsYine de sen bilirsin\nGideceksen dur demem\nSen bunlara l\u00e2y\u0131ks\u0131n\nBen y\u00fcz\u00fcne s\u00f6ylerim\n\n\u015eimdi g\u00fcl\u00fcyorsun\nS\u00f6z dinlemiyorsun\nHakl\u0131 de\u011filsin a\u015fk\u0131m\nB\u00f6yle gitmeyecek\n\n\u015eimdi g\u00fcl\u00fcyorsun\nBo\u015fa d\u00f6n\u00fcyorsun\nHakl\u0131 de\u011filsin a\u015fk\u0131m\nB\u00f6yle gitmeyecek\n\n32 k\u0131s\u0131m tekmili birden gelsede korkmuyorum\nKarlar buzlar erise ate\u015fim var yine de s\u00f6nm\u00fcyorum\nCennetin \u0131rmaklar\u0131 senin olsun ben ilgilenmiyorum\nTahamm\u00fcl\u00fcm yok kimselere ben o s\u00f6z\u00fc bilmiyorumYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1549635",
+   "artist_names": "Hande Yener",
+   "full_title": "Acele Etme by\u00a0Hande\u00a0Yener",
+   "header_image_thumbnail_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.400x400x1.jpg",
+   "id": 1549635,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Hande-yener-acele-etme-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Hande-yener-acele-etme-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.400x400x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Acele Etme",
+   "title_with_featured": "Acele Etme",
+   "url": "https://genius.com/Hande-yener-acele-etme-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356460",
+    "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+    "id": 356460,
+    "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Hande Yener",
+    "url": "https://genius.com/artists/Hande-yener"
+   },
+   "apple_music_id": "885887852",
+   "apple_music_player_url": "https://genius.com/songs/1549635/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1549635' class='rg_embed_link' data-song-id='1549635'>Read <a href='https://genius.com/Hande-yener-acele-etme-lyrics'>\u201cAcele Etme\u201d by Hande\u00a0Yener</a> on Genius</div> <script crossorigin src='//genius.com/songs/1549635/embed.js'></script>",
+   "featured_video": false,
+   "language": "tr",
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "use_mark_complete_button",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question",
+     "answer_question_with_source",
+     "moderate_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/180483",
+    "cover_art_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.400x400x1.jpg",
+    "full_title": "A\u015fk Kad\u0131n Ruhundan Anlam\u0131yor by Hande Yener",
+    "id": 180483,
+    "name": "A\u015fk Kad\u0131n Ruhundan Anlam\u0131yor",
+    "release_date_for_display": "January 1, 2004",
+    "url": "https://genius.com/albums/Hande-yener/Ask-kadn-ruhundan-anlamyor",
+    "artist": {
+     "api_path": "/artists/356460",
+     "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+     "id": 356460,
+     "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hande Yener",
+     "url": "https://genius.com/artists/Hande-yener"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6064224",
+    "classification": "needs_exegesis",
+    "fragment": "Acele Etme",
+    "id": 6064224,
+    "is_description": true,
+    "path": "/6064224/Hande-yener-acele-etme/Acele-etme",
+    "range": {
+     "content": "Acele Etme"
+    },
+    "song_id": 1549635,
+    "url": "https://genius.com/6064224/Hande-yener-acele-etme/Acele-etme",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1549635",
+     "client_timestamps": {
+      "updated_by_human_at": 1473408274,
+      "lyrics_updated_at": 1429896275
+     },
+     "context": "Hande Yener",
+     "id": 1549635,
+     "image_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.400x400x1.jpg",
+     "link_title": "Acele Etme by\u00a0Hande\u00a0Yener",
+     "title": "Acele Etme",
+     "type": "Song",
+     "url": "https://genius.com/Hande-yener-acele-etme-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6064224",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6064224,
+      "pinned": false,
+      "share_url": "https://genius.com/6064224",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6064224/Hande-yener-acele-etme/Acele-etme",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Hande Yener",
+   "lyrics": "1 ContributorAcele Etme LyricsE\u011fer istiyorsa\nKalp sonunu kendi se\u00e7er\nA\u015fk ya\u015f\u0131yorsa\nYasaklar\u0131 deler ge\u00e7er\n\nMahkum ettiremez\nKimse beni a\u015fktan sebep\nFirar serbest bende\n\u0130stemeyen \u00e7eker gider\n\nBelki anlars\u0131n\nHatan\u0131 ilerde\nSen zaten hep yan\u0131mdas\u0131n\nSabr\u0131n nerde\n\nAcele etme bu a\u015fk dedi\u011fin\nBiraz zaman al\u0131yor\nBilenin ve bana katlanan\u0131n\nYan\u0131na kar kal\u0131yorYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1196975",
+   "artist_names": "Hande Yener",
+   "full_title": "Ac\u0131s\u0131 \u00c7\u0131k\u0131yor by\u00a0Hande\u00a0Yener",
+   "header_image_thumbnail_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.400x400x1.jpg",
+   "id": 1196975,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Hande-yener-acs-ckyor-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Hande-yener-acs-ckyor-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.400x400x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ac\u0131s\u0131 \u00c7\u0131k\u0131yor",
+   "title_with_featured": "Ac\u0131s\u0131 \u00c7\u0131k\u0131yor",
+   "url": "https://genius.com/Hande-yener-acs-ckyor-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356460",
+    "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+    "id": 356460,
+    "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Hande Yener",
+    "url": "https://genius.com/artists/Hande-yener"
+   },
+   "apple_music_id": "885892914",
+   "apple_music_player_url": "https://genius.com/songs/1196975/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1196975' class='rg_embed_link' data-song-id='1196975'>Read <a href='https://genius.com/Hande-yener-acs-ckyor-lyrics'>\u201cAc\u0131s\u0131 \u00c7\u0131k\u0131yor\u201d by Hande\u00a0Yener</a> on Genius</div> <script crossorigin src='//genius.com/songs/1196975/embed.js'></script>",
+   "featured_video": false,
+   "language": "tr",
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "use_mark_complete_button",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question",
+     "answer_question_with_source",
+     "moderate_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/180483",
+    "cover_art_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.400x400x1.jpg",
+    "full_title": "A\u015fk Kad\u0131n Ruhundan Anlam\u0131yor by Hande Yener",
+    "id": 180483,
+    "name": "A\u015fk Kad\u0131n Ruhundan Anlam\u0131yor",
+    "release_date_for_display": "January 1, 2004",
+    "url": "https://genius.com/albums/Hande-yener/Ask-kadn-ruhundan-anlamyor",
+    "artist": {
+     "api_path": "/artists/356460",
+     "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+     "id": 356460,
+     "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hande Yener",
+     "url": "https://genius.com/artists/Hande-yener"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5699276",
+    "classification": "needs_exegesis",
+    "fragment": "Ac\u0131s\u0131 \u00c7\u0131k\u0131yor",
+    "id": 5699276,
+    "is_description": true,
+    "path": "/5699276/Hande-yener-acs-ckyor/Acs-ckyor",
+    "range": {
+     "content": "Ac\u0131s\u0131 \u00c7\u0131k\u0131yor"
+    },
+    "song_id": 1196975,
+    "url": "https://genius.com/5699276/Hande-yener-acs-ckyor/Acs-ckyor",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1196975",
+     "client_timestamps": {
+      "updated_by_human_at": 1481220571,
+      "lyrics_updated_at": 1429690741
+     },
+     "context": "Hande Yener",
+     "id": 1196975,
+     "image_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.400x400x1.jpg",
+     "link_title": "Ac\u0131s\u0131 \u00c7\u0131k\u0131yor by\u00a0Hande\u00a0Yener",
+     "title": "Ac\u0131s\u0131 \u00c7\u0131k\u0131yor",
+     "type": "Song",
+     "url": "https://genius.com/Hande-yener-acs-ckyor-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5699276",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5699276,
+      "pinned": false,
+      "share_url": "https://genius.com/5699276",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5699276/Hande-yener-acs-ckyor/Acs-ckyor",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Hande Yener",
+   "lyrics": "1 ContributorAc\u0131s\u0131 \u00c7\u0131k\u0131yor LyricsAc\u0131s\u0131 \u00e7\u0131k\u0131yor bak yava\u015f yava\u015f\nAl\u0131p g\u00f6t\u00fcrd\u00fc\u011f\u00fcn \u015feyler bana geri d\u00f6n\u00fcyor\nBir sorumlu ararsan git ba\u015fkas\u0131yla sava\u015f\nBen seni \u00e7oktan unuttum\nDile kolay geliyor\n\nKader senin bildi\u011fin gibi\nKolay de\u011fi\u015fmez bir tanem\nTa\u015flara kaz\u0131r gibi yaz\u0131l\u0131r\nKolay silinmez bir tanem\n\nSen kendini severken\nSevmenin lezzetini alamad\u0131n\nBen a\u015fkla sabah ettim\nT\u00f6vbeler bir muhabbet kuramad\u0131mYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/894941",
+   "artist_names": "Hande Yener",
+   "full_title": "Ac\u0131 Veriyor by\u00a0Hande\u00a0Yener",
+   "header_image_thumbnail_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.400x400x1.jpg",
+   "id": 894941,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Hande-yener-ac-veriyor-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Hande-yener-ac-veriyor-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.400x400x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ac\u0131 Veriyor",
+   "title_with_featured": "Ac\u0131 Veriyor",
+   "url": "https://genius.com/Hande-yener-ac-veriyor-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356460",
+    "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+    "id": 356460,
+    "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Hande Yener",
+    "url": "https://genius.com/artists/Hande-yener"
+   },
+   "apple_music_id": "885892913",
+   "apple_music_player_url": "https://genius.com/songs/894941/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_894941' class='rg_embed_link' data-song-id='894941'>Read <a href='https://genius.com/Hande-yener-ac-veriyor-lyrics'>\u201cAc\u0131 Veriyor\u201d by Hande\u00a0Yener</a> on Genius</div> <script crossorigin src='//genius.com/songs/894941/embed.js'></script>",
+   "featured_video": false,
+   "language": "tr",
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "use_mark_complete_button",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question",
+     "answer_question_with_source",
+     "moderate_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/180483",
+    "cover_art_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.400x400x1.jpg",
+    "full_title": "A\u015fk Kad\u0131n Ruhundan Anlam\u0131yor by Hande Yener",
+    "id": 180483,
+    "name": "A\u015fk Kad\u0131n Ruhundan Anlam\u0131yor",
+    "release_date_for_display": "January 1, 2004",
+    "url": "https://genius.com/albums/Hande-yener/Ask-kadn-ruhundan-anlamyor",
+    "artist": {
+     "api_path": "/artists/356460",
+     "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+     "id": 356460,
+     "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hande Yener",
+     "url": "https://genius.com/artists/Hande-yener"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5377378",
+    "classification": "needs_exegesis",
+    "fragment": "Ac\u0131 Veriyor",
+    "id": 5377378,
+    "is_description": true,
+    "path": "/5377378/Hande-yener-ac-veriyor/Ac-veriyor",
+    "range": {
+     "content": "Ac\u0131 Veriyor"
+    },
+    "song_id": 894941,
+    "url": "https://genius.com/5377378/Hande-yener-ac-veriyor/Ac-veriyor",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/894941",
+     "client_timestamps": {
+      "updated_by_human_at": 1578354769,
+      "lyrics_updated_at": 1429304341
+     },
+     "context": "Hande Yener",
+     "id": 894941,
+     "image_url": "https://images.genius.com/3d0c70d6916a59364de4e4fc5a1a01df.400x400x1.jpg",
+     "link_title": "Ac\u0131 Veriyor by\u00a0Hande\u00a0Yener",
+     "title": "Ac\u0131 Veriyor",
+     "type": "Song",
+     "url": "https://genius.com/Hande-yener-ac-veriyor-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5377378",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5377378,
+      "pinned": false,
+      "share_url": "https://genius.com/5377378",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5377378/Hande-yener-ac-veriyor/Ac-veriyor",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=niXpRSA34KY"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Hande Yener",
+   "lyrics": "2 ContributorsAc\u0131 Veriyor LyricsTanr\u0131ya yalvarm\u0131\u015ft\u0131m\nY\u0131llar \u00f6nce y\u0131llar \u00f6nce\nDedim ki onu alma yan\u0131na\nBenden \u00f6nce benden \u00f6nce\n\nK\u00fc\u00e7\u00fck bir \u015fans daha istiyorum\nBunu b\u00fct\u00fcn kalbimle diliyorum\n\nAc\u0131 veriyor yeni ba\u015ftan sevmesi\nBir g\u00fcn benle bir g\u00fcn ayr\u0131 ge\u00e7mesi\nAc\u0131 veriyor yeni ba\u015ftan sevmesi\nY\u0131llar sonra a\u015fka k\u00fcsk\u00fcn d\u00f6nmesiYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6362538",
+   "artist_names": "Hande Yener",
+   "full_title": "A\u011fla Kalbim by\u00a0Hande\u00a0Yener",
+   "header_image_thumbnail_url": "https://images.genius.com/65c786ac90357661b77b9d945d792924.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/65c786ac90357661b77b9d945d792924.640x640x1.jpg",
+   "id": 6362538,
+   "lyrics_owner_id": 8169020,
+   "lyrics_state": "complete",
+   "path": "/Hande-yener-agla-kalbim-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Hande-yener-agla-kalbim-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "2013",
+   "release_date_with_abbreviated_month_for_display": "2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/65c786ac90357661b77b9d945d792924.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/65c786ac90357661b77b9d945d792924.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "A\u011fla Kalbim",
+   "title_with_featured": "A\u011fla Kalbim",
+   "url": "https://genius.com/Hande-yener-agla-kalbim-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356460",
+    "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+    "id": 356460,
+    "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Hande Yener",
+    "url": "https://genius.com/artists/Hande-yener"
+   },
+   "apple_music_id": "1457218458",
+   "apple_music_player_url": "https://genius.com/songs/6362538/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6362538' class='rg_embed_link' data-song-id='6362538'>Read <a href='https://genius.com/Hande-yener-agla-kalbim-lyrics'>\u201cA\u011fla Kalbim\u201d by Hande\u00a0Yener</a> on Genius</div> <script crossorigin src='//genius.com/songs/6362538/embed.js'></script>",
+   "featured_video": false,
+   "language": "tr",
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "use_mark_complete_button",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question",
+     "answer_question_with_source",
+     "moderate_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/721484",
+    "cover_art_url": "https://images.genius.com/65c786ac90357661b77b9d945d792924.640x640x1.jpg",
+    "full_title": "Hande Yener Yepyeniler by Hande Yener",
+    "id": 721484,
+    "name": "Hande Yener Yepyeniler",
+    "release_date_for_display": "2013",
+    "url": "https://genius.com/albums/Hande-yener/Hande-yener-yepyeniler",
+    "artist": {
+     "api_path": "/artists/356460",
+     "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+     "id": 356460,
+     "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hande Yener",
+     "url": "https://genius.com/artists/Hande-yener"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8169020,
+    "annotator_login": "4RSLANTR",
+    "api_path": "/referents/21840932",
+    "classification": "needs_exegesis",
+    "fragment": "A\u011fla Kalbim",
+    "id": 21840932,
+    "is_description": true,
+    "path": "/21840932/Hande-yener-agla-kalbim/Agla-kalbim",
+    "range": {
+     "content": "A\u011fla Kalbim"
+    },
+    "song_id": 6362538,
+    "url": "https://genius.com/21840932/Hande-yener-agla-kalbim/Agla-kalbim",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6362538",
+     "client_timestamps": {
+      "updated_by_human_at": 1610260461,
+      "lyrics_updated_at": 1610260458
+     },
+     "context": "Hande Yener",
+     "id": 6362538,
+     "image_url": "https://images.genius.com/65c786ac90357661b77b9d945d792924.640x640x1.jpg",
+     "link_title": "A\u011fla Kalbim by\u00a0Hande\u00a0Yener",
+     "title": "A\u011fla Kalbim",
+     "type": "Song",
+     "url": "https://genius.com/Hande-yener-agla-kalbim-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21840932",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21840932,
+      "pinned": false,
+      "share_url": "https://genius.com/21840932",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21840932/Hande-yener-agla-kalbim/Agla-kalbim",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8169020",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/1443cbf35decbb71c396b51ac39f15e5",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/1443cbf35decbb71c396b51ac39f15e5",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/1443cbf35decbb71c396b51ac39f15e5",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/1443cbf35decbb71c396b51ac39f15e5",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/1443cbf35decbb71c396b51ac39f15e5",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8169020,
+         "iq": 57473,
+         "login": "4RSLANTR",
+         "name": "4RSLANTR",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/4RSLANTR",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Hande Yener",
+   "lyrics": "3 ContributorsA\u011fla Kalbim LyricsKalbim s\u00f6yle ne oldu bize\nNas\u0131l ihanet ettik s\u00f6z\u00fcm\u00fcze\nAh kalbim sevme iyi gelmez\nBize biraz \u00e7eksek bile \u00e7\u0131kar\u0131zbiz d\u00fcze\n\nOnu bir daha g\u00f6rmeyi inan istemezsin\nSana da ac\u0131 verir bu son halleri\nBilirim sende benim kadar kolay silemezsin\nAma \u015fimdi ba\u015fka renkte bak\u0131yor g\u00f6zlerin\n\nA\u011fla kalbim a\u011fla sen\nA\u011fla kalbim a\u011fla\nSus sesin duyulmas\u0131n\n\u0130\u00e7inden a\u011flaYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6362549",
+   "artist_names": "Hande Yener",
+   "full_title": "A\u011fla Kalbim - Dance Version by\u00a0Hande\u00a0Yener",
+   "header_image_thumbnail_url": "https://images.genius.com/65c786ac90357661b77b9d945d792924.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/65c786ac90357661b77b9d945d792924.640x640x1.jpg",
+   "id": 6362549,
+   "lyrics_owner_id": 8169020,
+   "lyrics_state": "complete",
+   "path": "/Hande-yener-agla-kalbim-dance-version-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Hande-yener-agla-kalbim-dance-version-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "2013",
+   "release_date_with_abbreviated_month_for_display": "2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/65c786ac90357661b77b9d945d792924.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/65c786ac90357661b77b9d945d792924.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "A\u011fla Kalbim - Dance Version",
+   "title_with_featured": "A\u011fla Kalbim - Dance Version",
+   "url": "https://genius.com/Hande-yener-agla-kalbim-dance-version-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356460",
+    "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+    "id": 356460,
+    "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Hande Yener",
+    "url": "https://genius.com/artists/Hande-yener"
+   },
+   "apple_music_id": "1457218791",
+   "apple_music_player_url": "https://genius.com/songs/6362549/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6362549' class='rg_embed_link' data-song-id='6362549'>Read <a href='https://genius.com/Hande-yener-agla-kalbim-dance-version-lyrics'>\u201cA\u011fla Kalbim - Dance Version\u201d by Hande\u00a0Yener</a> on Genius</div> <script crossorigin src='//genius.com/songs/6362549/embed.js'></script>",
+   "featured_video": false,
+   "language": "tr",
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "use_mark_complete_button",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question",
+     "answer_question_with_source",
+     "moderate_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/721484",
+    "cover_art_url": "https://images.genius.com/65c786ac90357661b77b9d945d792924.640x640x1.jpg",
+    "full_title": "Hande Yener Yepyeniler by Hande Yener",
+    "id": 721484,
+    "name": "Hande Yener Yepyeniler",
+    "release_date_for_display": "2013",
+    "url": "https://genius.com/albums/Hande-yener/Hande-yener-yepyeniler",
+    "artist": {
+     "api_path": "/artists/356460",
+     "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+     "id": 356460,
+     "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hande Yener",
+     "url": "https://genius.com/artists/Hande-yener"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8169020,
+    "annotator_login": "4RSLANTR",
+    "api_path": "/referents/21840962",
+    "classification": "needs_exegesis",
+    "fragment": "A\u011fla Kalbim - Dance Version",
+    "id": 21840962,
+    "is_description": true,
+    "path": "/21840962/Hande-yener-agla-kalbim-dance-version/Agla-kalbim-dance-version",
+    "range": {
+     "content": "A\u011fla Kalbim - Dance Version"
+    },
+    "song_id": 6362549,
+    "url": "https://genius.com/21840962/Hande-yener-agla-kalbim-dance-version/Agla-kalbim-dance-version",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6362549",
+     "client_timestamps": {
+      "updated_by_human_at": 1667026391,
+      "lyrics_updated_at": 1610260970
+     },
+     "context": "Hande Yener",
+     "id": 6362549,
+     "image_url": "https://images.genius.com/65c786ac90357661b77b9d945d792924.640x640x1.jpg",
+     "link_title": "A\u011fla Kalbim - Dance Version by\u00a0Hande\u00a0Yener",
+     "title": "A\u011fla Kalbim - Dance Version",
+     "type": "Song",
+     "url": "https://genius.com/Hande-yener-agla-kalbim-dance-version-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21840962",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21840962,
+      "pinned": false,
+      "share_url": "https://genius.com/21840962",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21840962/Hande-yener-agla-kalbim-dance-version/Agla-kalbim-dance-version",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8169020",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/1443cbf35decbb71c396b51ac39f15e5",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/1443cbf35decbb71c396b51ac39f15e5",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/1443cbf35decbb71c396b51ac39f15e5",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/1443cbf35decbb71c396b51ac39f15e5",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/1443cbf35decbb71c396b51ac39f15e5",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8169020,
+         "iq": 57473,
+         "login": "4RSLANTR",
+         "name": "4RSLANTR",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/4RSLANTR",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Hande Yener",
+   "lyrics": "1 ContributorA\u011fla Kalbim - Dance Version LyricsKalbim s\u00f6yle ne oldu bize\nNas\u0131l ihanet ettik s\u00f6z\u00fcm\u00fcze\nAh kalbim sevme iyi gelmez\nBize biraz \u00e7eksek bile \u00e7\u0131kar\u0131zbiz d\u00fcze\n\nOnu bir daha g\u00f6rmeyi inan istemezsin\nSana da ac\u0131 verir bu son halleri\nBilirim sende benim kadar kolay silemezsin\nAma \u015fimdi ba\u015fka renkte bak\u0131yor g\u00f6zlerin\n\nA\u011fla kalbim a\u011fla sen\nA\u011fla kalbim a\u011fla\nSus sesin duyulmas\u0131n\n\u0130\u00e7inden a\u011flaYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3154552",
+   "artist_names": "Hande Yener",
+   "full_title": "Alev Alev by\u00a0Hande\u00a0Yener",
+   "header_image_thumbnail_url": "https://images.genius.com/1ba34a6987bf8550a4b8763cd8991c76.300x202x1.jpg",
+   "header_image_url": "https://images.genius.com/1ba34a6987bf8550a4b8763cd8991c76.445x300x1.jpg",
+   "id": 3154552,
+   "lyrics_owner_id": 4692022,
+   "lyrics_state": "complete",
+   "path": "/Hande-yener-alev-alev-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Hande-yener-alev-alev-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 7,
+    "day": 9
+   },
+   "release_date_for_display": "July 9, 2017",
+   "release_date_with_abbreviated_month_for_display": "Jul. 9, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1ba34a6987bf8550a4b8763cd8991c76.300x202x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1ba34a6987bf8550a4b8763cd8991c76.445x300x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 7,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Alev Alev",
+   "title_with_featured": "Alev Alev",
+   "url": "https://genius.com/Hande-yener-alev-alev-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356460",
+    "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+    "id": 356460,
+    "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Hande Yener",
+    "url": "https://genius.com/artists/Hande-yener"
+   },
+   "apple_music_id": "1249510801",
+   "apple_music_player_url": "https://genius.com/songs/3154552/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3154552' class='rg_embed_link' data-song-id='3154552'>Read <a href='https://genius.com/Hande-yener-alev-alev-lyrics'>\u201cAlev Alev\u201d by Hande\u00a0Yener</a> on Genius</div> <script crossorigin src='//genius.com/songs/3154552/embed.js'></script>",
+   "featured_video": false,
+   "language": "tr",
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-07-09",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "use_mark_complete_button",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question",
+     "answer_question_with_source",
+     "moderate_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/354838",
+    "cover_art_url": "https://images.genius.com/5084ac2aeef4162a3395ef0f660ddea3.597x597x1.jpg",
+    "full_title": "Hepsi Hit, Vol. 2 by Hande Yener",
+    "id": 354838,
+    "name": "Hepsi Hit, Vol. 2",
+    "release_date_for_display": "June 21, 2017",
+    "url": "https://genius.com/albums/Hande-yener/Hepsi-hit-vol-2",
+    "artist": {
+     "api_path": "/artists/356460",
+     "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+     "id": 356460,
+     "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hande Yener",
+     "url": "https://genius.com/artists/Hande-yener"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1015365,
+    "annotator_login": "GeraldGillum",
+    "api_path": "/referents/21022811",
+    "classification": "needs_exegesis",
+    "fragment": "Alev Alev",
+    "id": 21022811,
+    "is_description": true,
+    "path": "/21022811/Hande-yener-alev-alev/Alev-alev",
+    "range": {
+     "content": "Alev Alev"
+    },
+    "song_id": 3154552,
+    "url": "https://genius.com/21022811/Hande-yener-alev-alev/Alev-alev",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3154552",
+     "client_timestamps": {
+      "updated_by_human_at": 1499856853,
+      "lyrics_updated_at": 1499856648
+     },
+     "context": "Hande Yener",
+     "id": 3154552,
+     "image_url": "https://images.genius.com/1ba34a6987bf8550a4b8763cd8991c76.445x300x1.jpg",
+     "link_title": "Alev Alev by\u00a0Hande\u00a0Yener",
+     "title": "Alev Alev",
+     "type": "Song",
+     "url": "https://genius.com/Hande-yener-alev-alev-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21022811",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21022811,
+      "pinned": false,
+      "share_url": "https://genius.com/21022811",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21022811/Hande-yener-alev-alev/Alev-alev",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1015365",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/6d6704d6b97779d4ae5452e7f624768b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/6d6704d6b97779d4ae5452e7f624768b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/6d6704d6b97779d4ae5452e7f624768b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/6d6704d6b97779d4ae5452e7f624768b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/352d02a0bf2fae0e5b087afd86d6cc21.1000x560x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 1015365,
+         "iq": 72328,
+         "login": "GeraldGillum",
+         "name": "Hakan \u00d6zsoy",
+         "role_for_display": "editor",
+         "url": "https://genius.com/GeraldGillum",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=qrDc0jtxlAU"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1133331",
+     "header_image_url": "https://images.genius.com/bd34ab0b6e5258950aa798201e5cedd1.320x320x1.jpg",
+     "id": 1133331,
+     "image_url": "https://images.genius.com/bd34ab0b6e5258950aa798201e5cedd1.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Poll Production",
+     "url": "https://genius.com/artists/Poll-production"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1143971",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1707426152",
+     "id": 1143971,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1707426152",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "MERT EKREN",
+     "url": "https://genius.com/artists/Mert-ekren"
+    }
+   ],
+   "artist": "Hande Yener",
+   "lyrics": "7 ContributorsAlev Alev LyricsHavan m\u0131 so\u011fudu yoksa yine\nKalbin buz kesti de ben dondum\n\u00dc\u015f\u00fcd\u00fcm diyorum dinlesene\nSar tenini, tenime yoksa mahfoldum\n\nKalp bu de\u011fil ki \u00e7elikten\nAl\u00e7\u0131da tutmuyor kahretsin\nK\u0131r\u0131lsa k\u0131r\u0131l\u0131r elinden\nKorkmuyorum sen varsan hi\u00e7 bir \u015feyde\n\nYak beni de kendini de\nTutu\u015fur kor olas\u0131n var be senle\nYok kadere inkar edemezsin\n\nKorkma bir \u015fey olmaz hadi alev alevYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6359422",
+   "artist_names": "Hande Yener",
+   "full_title": "Alt Dudak by\u00a0Hande\u00a0Yener",
+   "header_image_thumbnail_url": "https://images.genius.com/f968943d18a911d1c47fa732277281e3.300x271x1.jpg",
+   "header_image_url": "https://images.genius.com/f968943d18a911d1c47fa732277281e3.1000x904x1.jpg",
+   "id": 6359422,
+   "lyrics_owner_id": 8169020,
+   "lyrics_state": "complete",
+   "path": "/Hande-yener-alt-dudak-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Hande-yener-alt-dudak-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "2014",
+   "release_date_with_abbreviated_month_for_display": "2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f968943d18a911d1c47fa732277281e3.300x271x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f968943d18a911d1c47fa732277281e3.1000x904x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Alt Dudak",
+   "title_with_featured": "Alt Dudak",
+   "url": "https://genius.com/Hande-yener-alt-dudak-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356460",
+    "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+    "id": 356460,
+    "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Hande Yener",
+    "url": "https://genius.com/artists/Hande-yener"
+   },
+   "apple_music_id": "884151029",
+   "apple_music_player_url": "https://genius.com/songs/6359422/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6359422' class='rg_embed_link' data-song-id='6359422'>Read <a href='https://genius.com/Hande-yener-alt-dudak-lyrics'>\u201cAlt Dudak\u201d by Hande\u00a0Yener</a> on Genius</div> <script crossorigin src='//genius.com/songs/6359422/embed.js'></script>",
+   "featured_video": false,
+   "language": "tr",
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "use_mark_complete_button",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question",
+     "answer_question_with_source",
+     "moderate_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/273136",
+    "cover_art_url": "https://images.genius.com/f968943d18a911d1c47fa732277281e3.1000x904x1.jpg",
+    "full_title": "M\u00fckemmel by Hande Yener",
+    "id": 273136,
+    "name": "M\u00fckemmel",
+    "release_date_for_display": "2014",
+    "url": "https://genius.com/albums/Hande-yener/Mukemmel",
+    "artist": {
+     "api_path": "/artists/356460",
+     "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+     "id": 356460,
+     "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hande Yener",
+     "url": "https://genius.com/artists/Hande-yener"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8169020,
+    "annotator_login": "4RSLANTR",
+    "api_path": "/referents/21833028",
+    "classification": "needs_exegesis",
+    "fragment": "Alt Dudak",
+    "id": 21833028,
+    "is_description": true,
+    "path": "/21833028/Hande-yener-alt-dudak/Alt-dudak",
+    "range": {
+     "content": "Alt Dudak"
+    },
+    "song_id": 6359422,
+    "url": "https://genius.com/21833028/Hande-yener-alt-dudak/Alt-dudak",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6359422",
+     "client_timestamps": {
+      "updated_by_human_at": 1659256214,
+      "lyrics_updated_at": 1659256214
+     },
+     "context": "Hande Yener",
+     "id": 6359422,
+     "image_url": "https://images.genius.com/f968943d18a911d1c47fa732277281e3.1000x904x1.jpg",
+     "link_title": "Alt Dudak by\u00a0Hande\u00a0Yener",
+     "title": "Alt Dudak",
+     "type": "Song",
+     "url": "https://genius.com/Hande-yener-alt-dudak-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21833028",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21833028,
+      "pinned": false,
+      "share_url": "https://genius.com/21833028",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/21833028/Hande-yener-alt-dudak/Alt-dudak",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8169020",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/1443cbf35decbb71c396b51ac39f15e5",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/1443cbf35decbb71c396b51ac39f15e5",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/1443cbf35decbb71c396b51ac39f15e5",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/1443cbf35decbb71c396b51ac39f15e5",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/1443cbf35decbb71c396b51ac39f15e5",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8169020,
+         "iq": 57473,
+         "login": "4RSLANTR",
+         "name": "4RSLANTR",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/4RSLANTR",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Hande Yener",
+   "lyrics": "1 ContributorAlt Dudak Lyrics[Giri\u015f]\n(A\u015fk ba\u015f\u0131m\u0131za bela\nHasta la vista baby)\n(A\u015fk ba\u015f\u0131m\u0131za bela)\n\n[1.B\u00f6l\u00fcm]\nBiz de\u011fil miydik, a\u015fk ile yanan?\nE\u011fer ayr\u0131l\u0131rsak \u00f6l\u00fcrd\u00fck falan\nHani ne oldu bak ne hallerdeyiz\nSensiz yapamam laf\u0131 k\u00fclliyen yalan\n\nBiz de\u011fil miydik, a\u015fk ile yanan?\nE\u011fer ayr\u0131l\u0131rsak \u00f6l\u00fcrd\u00fck falan\nHani ne oldu bak ne hallerdeyiz\nSensiz yapamam laf\u0131 k\u00fclliyen yalan\n\n[K\u00f6pr\u00fc]\nBu d\u00fcnyada \u00e7\u0131lg\u0131n ararsan\nBiri sensin biri ben\nAma art\u0131k delilik yok\nBeni sen tut seni ben\n\nNe d\u00fcnyaym\u0131\u015f b\u0131rak d\u00f6ns\u00fcn dursun\nSabredince hi\u00e7 \u00f6yle ermiyorsun\nEle ge\u00e7mez bir daha b\u00f6yle f\u0131rsat\nSevelim, sevi\u015felim\nYou might also like(Hasta la vista baby)\n\n[Nakarat]\nY\u0131k\u0131la y\u0131k\u0131la, gezip dola\u015fal\u0131m\nEskiyi unut, gel bar\u0131\u015fal\u0131m\nG\u00f6z\u00fcn\u00fc g\u00f6z\u00fcm\u0435, de\u011fdir o zaman\nKalbime dokun, a\u015fk konu\u015fal\u0131m\n\nY\u0131k\u0131la y\u0131k\u0131la, gezip dola\u015fal\u0131m\nEskiyi unut, g\u0435l bar\u0131\u015fal\u0131m\nG\u00f6zlerin g\u00f6z\u00fcme, de\u011fdi\u011fi zaman\nHat\u0131r\u0131 kal\u0131r alt duda\u011f\u0131n\n\n(A\u015fk ba\u015f\u0131m\u0131za bela\nHasta la vista baby)\n(A\u015fk ba\u015f\u0131m\u0131za bela)\n\n[2.B\u00f6l\u00fcm]\nBiz de\u011fil miydik, a\u015fk ile yanan?\nE\u011fer ayr\u0131l\u0131rsak \u00f6l\u00fcrd\u00fck falan\nHani ne oldu bak ne hallerdeyiz\nSensiz yapamam laf\u0131 k\u00fclliyen yalan\n\nBiz de\u011fil miydik, a\u015fk ile yanan?\nE\u011fer ayr\u0131l\u0131rsak \u00f6l\u00fcrd\u00fck falan\nHani ne oldu bak ne hallerdeyiz\nSensiz yapamam laf\u0131 k\u00fclliyen yalan\n[K\u00f6pr\u00fc]\nBu d\u00fcnyada \u00e7\u0131lg\u0131n ararsan\nBiri sensin biri ben\nAma art\u0131k delilik yok\nBeni sen tut seni ben\n\nNe d\u00fcnyaym\u0131\u015f b\u0131rak d\u00f6ns\u00fcn dursun\nSabredince hi\u00e7 \u00f6yle ermiyorsun\nEle ge\u00e7mez bir daha b\u00f6yle f\u0131rsat\nSevelim, sevi\u015felim\n\n(Hasta la vista baby)\n\n[Nakarat]\nY\u0131k\u0131la y\u0131k\u0131la, gezip dola\u015fal\u0131m\nEskiyi unut, gel bar\u0131\u015fal\u0131m\nG\u00f6z\u00fcn\u00fc g\u00f6z\u00fcme, de\u011fdir o zaman\nKalbime dokun, a\u015fk konu\u015fal\u0131m\n\nY\u0131k\u0131la y\u0131k\u0131la, gezip dola\u015fal\u0131m\nEskiyi unut, gel bar\u0131\u015fal\u0131m\nG\u00f6zlerin g\u00f6z\u00fcme, de\u011fdi\u011fi zaman\nHat\u0131r\u0131 kal\u0131r alt duda\u011f\u0131n\n\n[\u00c7\u0131k\u0131\u015f]\nHani inatla\u015fmasak hala diyorum\nUzatmasak mesela\nZaman makinesine iki biletim var\nEminim senin de niyetin var (var)\n(A\u015fk ba\u015f\u0131m\u0131za bela\nHasta la vista baby)\n\nO g\u00fcnlere d\u00f6nsek ne kaybederiz ?\nEn fazla yine \u00e7ok severiz\nYine a\u015f\u0131k olur yine her \u015feyi berbat ederiz\nBir delilik yapsak m\u0131 ne dersin?\n\n(A\u015fk ba\u015f\u0131m\u0131za bela)Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1761340",
+   "artist_names": "Hande Yener",
+   "full_title": "Anlamad\u0131n Ki by\u00a0Hande\u00a0Yener",
+   "header_image_thumbnail_url": "https://images.genius.com/834076cb235cceea4d95d612ef6e5ada.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/834076cb235cceea4d95d612ef6e5ada.640x640x1.jpg",
+   "id": 1761340,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Hande-yener-anlamadn-ki-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Hande-yener-anlamadn-ki-sample",
+   "release_date_components": {
+    "year": 2000,
+    "month": 5,
+    "day": 31
+   },
+   "release_date_for_display": "May 31, 2000",
+   "release_date_with_abbreviated_month_for_display": "May. 31, 2000",
+   "song_art_image_thumbnail_url": "https://images.genius.com/834076cb235cceea4d95d612ef6e5ada.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/834076cb235cceea4d95d612ef6e5ada.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Anlamad\u0131n Ki",
+   "title_with_featured": "Anlamad\u0131n Ki",
+   "url": "https://genius.com/Hande-yener-anlamadn-ki-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/356460",
+    "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+    "id": 356460,
+    "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Hande Yener",
+    "url": "https://genius.com/artists/Hande-yener"
+   },
+   "apple_music_id": "590278535",
+   "apple_music_player_url": "https://genius.com/songs/1761340/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1761340' class='rg_embed_link' data-song-id='1761340'>Read <a href='https://genius.com/Hande-yener-anlamadn-ki-lyrics'>\u201cAnlamad\u0131n Ki\u201d by Hande\u00a0Yener</a> on Genius</div> <script crossorigin src='//genius.com/songs/1761340/embed.js'></script>",
+   "featured_video": false,
+   "language": "tr",
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2000-05-31",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "use_mark_complete_button",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question",
+     "answer_question_with_source",
+     "moderate_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/264202",
+    "cover_art_url": "https://images.genius.com/834076cb235cceea4d95d612ef6e5ada.640x640x1.jpg",
+    "full_title": "Senden \u0130baret by Hande Yener",
+    "id": 264202,
+    "name": "Senden \u0130baret",
+    "release_date_for_display": "May 31, 2000",
+    "url": "https://genius.com/albums/Hande-yener/Senden-ibaret",
+    "artist": {
+     "api_path": "/artists/356460",
+     "header_image_url": "https://images.genius.com/f9f9d265bcd2f2e2d423de8335c6f732.1000x1000x1.jpg",
+     "id": 356460,
+     "image_url": "https://images.genius.com/e8f299b7613c4cf948f12cb979a7b0c8.511x511x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hande Yener",
+     "url": "https://genius.com/artists/Hande-yener"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Arranged By",
+     "artists": [
+      {
+       "api_path": "/artists/1284417",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1707426152",
+       "id": 1284417,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1707426152",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "\u00d6zg\u00fcr Yedievli",
+       "url": "https://genius.com/artists/Ozgur-yedievli"
+      },
+      {
+       "api_path": "/artists/1174260",
+       "header_image_url": "https://images.genius.com/4ec0e4d9504d766707a0b2831edce302.600x600x1.jpg",
+       "id": 1174260,
+       "image_url": "https://images.genius.com/4ec0e4d9504d766707a0b2831edce302.600x600x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Altan \u00c7etin",
+       "url": "https://genius.com/artists/Altan-cetin"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6292237",
+    "classification": "needs_exegesis",
+    "fragment": "Anlamad\u0131n Ki",
+    "id": 6292237,
+    "is_description": true,
+    "path": "/6292237/Hande-yener-anlamadn-ki/Anlamadn-ki",
+    "range": {
+     "content": "Anlamad\u0131n Ki"
+    },
+    "song_id": 1761340,
+    "url": "https://genius.com/6292237/Hande-yener-anlamadn-ki/Anlamadn-ki",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1761340",
+     "client_timestamps": {
+      "updated_by_human_at": 1555072232,
+      "lyrics_updated_at": 1430205134
+     },
+     "context": "Hande Yener",
+     "id": 1761340,
+     "image_url": "https://images.genius.com/834076cb235cceea4d95d612ef6e5ada.640x640x1.jpg",
+     "link_title": "Anlamad\u0131n Ki by\u00a0Hande\u00a0Yener",
+     "title": "Anlamad\u0131n Ki",
+     "type": "Song",
+     "url": "https://genius.com/Hande-yener-anlamadn-ki-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6292237",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6292237,
+      "pinned": false,
+      "share_url": "https://genius.com/6292237",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6292237/Hande-yener-anlamadn-ki/Anlamadn-ki",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=G7hQUP3s1XE"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1174260",
+     "header_image_url": "https://images.genius.com/4ec0e4d9504d766707a0b2831edce302.600x600x1.jpg",
+     "id": 1174260,
+     "image_url": "https://images.genius.com/4ec0e4d9504d766707a0b2831edce302.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Altan \u00c7etin",
+     "url": "https://genius.com/artists/Altan-cetin"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1174260",
+     "header_image_url": "https://images.genius.com/4ec0e4d9504d766707a0b2831edce302.600x600x1.jpg",
+     "id": 1174260,
+     "image_url": "https://images.genius.com/4ec0e4d9504d766707a0b2831edce302.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Altan \u00c7etin",
+     "url": "https://genius.com/artists/Altan-cetin"
+    }
+   ],
+   "artist": "Hande Yener",
+   "lyrics": "4 ContributorsAnlamad\u0131n Ki LyricsNe mektubun geliyor ne de bir haberin\nHayallerim bile ayn\u0131 art\u0131k ezberledim\nKahrolurum biliyorsun sensin tek sebebim\n\nDa\u011flar gibi y\u00fcre\u011fimi par\u00e7alad\u0131n yar sen\nD\u00fc\u011f\u00fcmledin yollar\u0131m\u0131 bo\u015f b\u0131rakt\u0131n kollar\u0131m\u0131\nSana verdi\u011fim y\u0131llar\u0131m\u0131\nAc\u0131mad\u0131n ki sen\n\nKeder olsan \u00e7ekiyordum\nT\u00fckensem of demiyordum\nCan\u0131mdan \u00e7ok seviyordum\nAnlamad\u0131n ki senYou might also likeEmbed"
+  }
+ ]
+}
